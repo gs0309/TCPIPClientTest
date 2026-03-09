@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\\u91C7\u96C6\u5361\u8C03\u8BD5\\ModbusTcpTest\\WinFormsApp20260303\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9921B4-558F-4F3D-8B1C-191C61C4F549}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\1\\desktop\\\u91C7\u96C6\u5361\u8C03\u8BD5\\modbustcptest\\winformsapp20260303\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9921B4-558F-4F3D-8B1C-191C61C4F549}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9921B4-558F-4F3D-8B1C-191C61C4F549}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\1\\Desktop\\\u91C7\u96C6\u5361\u8C03\u8BD5\\ModbusTcpTest\\WinFormsApp20260303\\WinFormsApp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB9921B4-558F-4F3D-8B1C-191C61C4F549}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9921B4-558F-4F3D-8B1C-191C61C4F549}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\1\\desktop\\\u91C7\u96C6\u5361\u8C03\u8BD5\\modbustcptest\\winformsapp20260303\\winformsapp1\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9921B4-558F-4F3D-8B1C-191C61C4F549}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u91C7\u96C6\u5361\u8C03\u8BD5\\ModbusTcpTest\\WinFormsApp20260303\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u91C7\u96C6\u5361\u8C03\u8BD5\\ModbusTcpTest\\WinFormsApp20260303\\WinFormsApp1\\WinFormsApp1\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T08:33:33.497Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u91C7\u96C6\u5361\u8C03\u8BD5\\ModbusTcpTest\\WinFormsApp20260303\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u91C7\u96C6\u5361\u8C03\u8BD5\\ModbusTcpTest\\WinFormsApp20260303\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAD4vzoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T06:49:02.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u91C7\u96C6\u5361\u8C03\u8BD5\\ModbusTcpTest\\WinFormsApp20260303\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u91C7\u96C6\u5361\u8C03\u8BD5\\ModbusTcpTest\\WinFormsApp20260303\\WinFormsApp1\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAADwvxwBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T03:21:05.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
